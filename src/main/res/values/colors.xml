@@ -1,0 +1,6 @@
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal">#0F4C5C</color>
+    <color name="coin">#FFC93C</color>
+    <color name="mint">#2EC4B6</color>
+</resources>

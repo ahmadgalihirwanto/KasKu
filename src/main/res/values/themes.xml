@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.KasKu" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">#CDEFF5</item>
+        <item name="colorOnPrimaryContainer">#00363F</item>
+        <item name="colorSecondaryContainer">#FFEFC2</item>
+        <item name="colorOnSecondaryContainer">#3D2E00</item>
+        <item name="chipStyle">@style/Widget.Material3.Chip.Filter</item>
+        <item name="android:statusBarColor">?android:attr/colorBackground</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
